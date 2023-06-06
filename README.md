@@ -220,8 +220,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
 
-TON = 2.5
-TOFF=2.5
+TON = 2.25
+TOFF=2.25
 TOTAL TIME = 5
 FREQUENCY = 1/5ms = 200.
 
